@@ -1,0 +1,92 @@
+Bit Manupulation <Memorize>
+Binary Gap : https://leetcode.com/problems/binary-gap/description/
+Flip bit problem : https://github.com/settyblue/HackerRank/blob/master/Algorithms/Bits/flipBits.java
+Reverse bit https://leetcode.com/problems/reverse-bits/description/
+
+
+Tree
+Mirror of a Tree: https://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/   ebay/MirrorTree
+BFS of a graph: ebay/BFS/
+DFS of a graph: ebay/DFS/
+Subtree of Another Tree: https://leetcode.com/problems/subtree-of-another-tree/description/
+Iterative Traversal of Binary Tree : Iterative Postorder Traversal of Binary Tree   ebay/TreeTraversals
+Is Binary Search Tree: Check if Binary Tree is Binary Search Tree   ebay/IsBST
+
+Subtree of Another Tree : https://leetcode.com/problems/subtree-of-another-tree/description/ 
+				 Check if a binary tree is subtree of another binary tree | Part 1 | GeeksforGeeks
+LCA BST : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+LCA Binary Tree : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+Balanced Binary Tree: https://leetcode.com/problems/balanced-binary-tree/description/
+Maximum Depth Binary Tree : https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+Minumum Depth Binary Tree : https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+Binary Tree Right Side View : https://leetcode.com/problems/binary-tree-right-side-view/description/
+Binary Tree Inorder Traversal : https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+Binary Tree Preorder Traversal : https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+Binary Tree Postorder Traversal : https://leetcode.com/problems/binary-tree-postorder-traversal/description/
+Binary Search Tree Iterator: https://leetcode.com/problems/binary-search-tree-iterator/description/
+Kth Smallest Element in a BST : https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+Inorder Successor in BST: https://leetcode.com/problems/inorder-successor-in-bst/description/
+Minimum Distance Between BST Nodes : https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/
+Serialize and Deserialize Binary Tree: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
+Count Complete Tree Nodes : https://leetcode.com/problems/count-complete-tree-nodes/description/
+
+
+
+
+Stack and Queue
+Implement Queue using 2 Stacks: Implementing a Queue Using Two Stacks - Data Structures          ebay/QueueUsingTwoStacks
+Implement Queue using 1 Stack:  Google Interview Question: Implement A Queue With A Stack - Whiteboard Wednesday     ebay/QueueUsingStack
+
+Implement Stack using 2 Queue:  ebay/StackUsing2Queues
+Implement Stack using 1 Queue:  ebay/StackUsingQueue
+
+
+LinkedList
+Linked List Cycle : https://leetcode.com/problems/linked-list-cycle/description/   Data Structures: Cycles in a Linked List
+Merge 2 Sorted Lists : https://leetcode.com/problems/merge-two-sorted-lists/description/
+Reverse Linked List : https://leetcode.com/problems/reverse-linked-list/description/
+Delete Node in a Linked List : https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+
+
+Sorting
+Merge sort: https://www.youtube.com/watch?v=TzeBrDU-JaY
+
+
+String
+Reverse Words in a String : https://leetcode.com/problems/reverse-words-in-a-string/description/
+extract name from string : ebay/ExtractName
+Anagram: https://leetcode.com/problems/valid-anagram/description/
+
+Array
+Climbing Stairs /Fibonacci Number : https://leetcode.com/problems/climbing-stairs/description/
+Kth Largest Element in an Array : https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+Split Array into Fibonacci Sequence : https://leetcode.com/articles/split-array-into-fibonacci-sequence/
+Find All Duplicates in an Array : https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+
+
+
+
+Others
+Two Sum: https://leetcode.com/problems/two-sum/description/
+Fibonacci Number : https://leetcode.com/problems/climbing-stairs/description/
+How to find out the second most frequent integer given an array of integers. https://www.geeksforgeeks.org/c-program-find-second-frequent-character/
+Give the top ten elements of the given array  https://stackoverflow.com/questions/4084495/find-top-n-elements-in-an-array
+
+
+Special
+Tower of Hanoi: https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/shift-plates
+			Recursion Algorithm | Tower Of Hanoi - step by step guide
+8 queen problem : https://leetcode.com/problems/n-queens/description/
+Shuffle cards: https://leetcode.com/problems/shuffle-an-array/description/  
+			https://www.geeksforgeeks.org/shuffle-a-deck-of-cards-3/
+LRU cache : https://leetcode.com/problems/lru-cache/description/
+Printout all the class name available in the jar file
+Priority Queue: Merge k sorted arrays Interview Question: Merge K Sorted Arrays
+Trie Data Structure : Trie Data Structure
+Partition Equal Subset Sum : Subset Sum Problem Dynamic Programming    
+					https://leetcode.com/problems/partition-equal-subset-sum/description/
+Unique Paths : https://leetcode.com/problems/unique-paths/description/  
+		     Total Ways in Matrix Dynamic Programming
+Unique Paths II : https://leetcode.com/problems/unique-paths-ii/description/
+		        LeetCode Tutorial 63. Unique Paths II
+Median of Two Sorted Arrays : https://leetcode.com/problems/median-of-two-sorted-arrays/description/
