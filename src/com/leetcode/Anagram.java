@@ -14,11 +14,11 @@ public class Anagram {
         char[] charArray2 = str2.toCharArray();
         int[] result = new int[26];
 
-        for(int i = 0; i< charArray1.length -1; i++){
+        for(int i = 0; i< charArray1.length; i++){
             result[charArray1[i] - 'a']++;
         }
 
-        for(int i = 0; i< charArray2.length -1; i++){
+        for(int i = 0; i< charArray2.length; i++){
             result[charArray2[i] - 'a']--;
         }
 
